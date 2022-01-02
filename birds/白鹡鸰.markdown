@@ -1,0 +1,10 @@
+---
+layout: page
+title: 白鹡鸰
+permalink: /birds/baijiling/
+---
+白鹡鸰是一种比较常见的鸟，它最具标志性的特点是其飞行姿态，它不会平稳地飞行，只知道一抖一抖地在空中跳跃，难道这就是抖机灵？
+![](../picture/白鹡鸰/DSCN2547.jpg)
+![](../picture/白鹡鸰/DSCN3079.jpg)
+
+[返回](../../)
