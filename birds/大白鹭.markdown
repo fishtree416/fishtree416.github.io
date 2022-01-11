@@ -1,0 +1,10 @@
+---
+layout: page
+title: 大白鹭
+permalink: /birds/dabailu/
+---
+大白鹭算是比较常见的水鸟，但是数量比小白鹭少得多。大白鹭体型很大，体长近一米，常见的鸟中只有苍鹭在体型上可与之一战。
+![](../picture/大白鹭/DSC_7885.jpg)
+![](../picture/大白鹭/DSC_7887.jpg)
+![](../picture/大白鹭/DSC_8024.jpg)
+[返回](../../)
