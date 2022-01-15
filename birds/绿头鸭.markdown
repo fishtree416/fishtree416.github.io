@@ -3,7 +3,7 @@ layout: page
 title: 绿头鸭
 permalink: /birds/lvtouya/
 ---
-绿头鸭是是家鸭的祖先，是最常见的野鸭之一。说是绿头鸭，实际上只有雄鸭的头才是绿的。
+绿头鸭作为家鸭的祖先，是最常见的野鸭之一。说是绿头鸭，实际上只有雄鸭的头才是绿的。
 ![](../picture/绿头鸭/DSCN8101.jpg)
 ![](../picture/绿头鸭/DSCN8131.jpg)
 ![](../picture/绿头鸭/DSC_1174.jpg)
