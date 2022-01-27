@@ -52,7 +52,7 @@ layout: page
 | 35   | [扇尾沙锥](./birds/shanweishazhui)            | 2018-01-09 | 四季花海三期                                     |
 | 36   | [黑脸噪鹛](./birds/heilianzaomei)             | 2018-01-14 | 四季花海三期                                     |
 | 37   | [大斑啄木鸟](./birds/dabanzhuomuniao)         | 2018-01-26 | 四季花海三期北门对面                             |
-| 38   | [红胁蓝尾鸲](./birds/hllwj)                   | 2018-01-26 | 四季花海三期                                     |
+| 38   | [红胁蓝尾鸲](./birds/hongxielanweiqu)                   | 2018-01-26 | 四季花海三期                                     |
 | 39   | [黄喉鹀](./birds/huanghouwu)                  | 2018-01-26 | 四季花海三期                                     |
 | 40   | [灰头鹀](./birds/huitouwu)                    | 2018-01-26 | 四季花海三期                                     |
 | 41   | [青脚鹬](./birds/qingjiaoyu)                  | 2018-01-26 | 四季花海三期                                     |
