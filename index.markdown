@@ -59,7 +59,7 @@ layout: page
 | 42   | [中白鹭](./birds/zhongbailu)                  | 2018-01-29 | 四季花海三期                                     |
 | 43   | [灰椋鸟](./birds/huiliangniao)                | 2018-02-17 | 舒城县百神庙                                     |
 | 44   | [灰头绿啄木鸟](./birds/huitoulvzhuomuniao)    | 2018-02-23 | 四季花海二期                                     |
-| 45   | [鹊鸲](./birds/queju)                         | 2018-02-26 | 香山丽舍                                           |
+| 45   | [鹊鸲](./birds/quequ)                         | 2018-02-26 | 香山丽舍                                           |
 | 46   | [金翅](./birds/jinchi)                        | 2018-04-09 | 河北赵县                                         |
 | 47   | [家燕](./birds/jiayan)                        | 2018-04-09 | 河北赵县                                         |
 | 48   | [灰背鸫](./birds/huibeidong)                  | 2018-04-11 | 四季花海二期                                     |
