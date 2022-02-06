@@ -1,9 +1,9 @@
 ---
 layout: page
 title: 灰背鸫
-permalink: /birds/jiayan/
+permalink: /birds/huibeidong/
 ---
-灰背鸫不太常见，不过我第一次见到它就知道它是某种鸫了，因为它走路的姿势和乌鸫是一样一样的。
+灰背鸫不太常见，不过第一次见到就知道它是某种鸫了，因为它走路的姿势和乌鸫是一样一样的。
 ![](../picture/灰背鸫/DSCN0943.jpg)
 ![](../picture/灰背鸫/DSCN0838.jpg)
 [返回](../../)
