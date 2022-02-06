@@ -1,0 +1,9 @@
+---
+layout: page
+title: 灰鹡鸰
+permalink: /birds/huijiling/
+---
+白鹡鸰非常常见，灰鹡鸰就比较少见了，灰鹡鸰似乎更喜欢水。
+![](../picture/灰鹡鸰/DSC_0639.jpg)
+![](../picture/灰鹡鸰/DSCN4763.jpg)
+[返回](../../)
