@@ -1,9 +1,9 @@
 ---
 layout: page
 title: 金眶鸻
-permalink: /birds/lingyu/
+permalink: /birds/jinkuangheng/
 ---
 金眶鸻鸟如其名有着一对金眼圈，不知道为什么乌鸫不叫金眶鸫。
-![](../picture/林鹬/DSC_4225.jpg)
-![](../picture/林鹬/DSCN1389.jpg)
+![](../picture/金眶鸻/DSC_4225.jpg)
+![](../picture/金眶鸻/DSCN1389.jpg)
 [返回](../../)
