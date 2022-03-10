@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 灰纹鹟
-permalink: /birds/huiwenwong/
+permalink: /birds/huiwenweng/
 ---
 灰纹鹟不多见，目前为止只拍到过一次。
 ![](../picture/灰纹鹟/DSCN1671.jpg)
