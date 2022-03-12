@@ -87,7 +87,7 @@ layout: page
 | 70   | [暗灰鹃鵙](./birds/anhuijuanju)               | 2019-06-25 | 四季花海三期                                     |
 | 71   | [红脚苦恶鸟](./birds/hongjiaokueniao)         | 2019-07-05 | 四季花海三期                                     |
 | 72   | [大嘴乌鸦](./birds/dazuiwuya)                 | 2019-10-15 | 北海公园、紫禁城                                 |
-| 73   | [环颈雉](./birds/huanjinzhi)                  | 2019-10-20 | 赵县                                             |
+| 73   | [雉鸡](./birds/zhiji)                         | 2019-10-20 | 赵县                                             |
 | 74   | [黄腹山雀](./birds/huangfushanque)            | 2019-11-14 | 蜀山森林公园（枫林路西侧）                       |
 | 75   | [燕雀](./birds/yanque)                        | 2019-11-16 | 蜀山森林公园（枫林路西侧）                       |
 | 76   | [普通鵟](./birds/putongkuang)                 | 2019-11-19 | 蜀山森林公园（枫林路西侧）                       |
