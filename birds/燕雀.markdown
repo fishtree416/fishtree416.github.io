@@ -1,0 +1,8 @@
+---
+layout: page
+title: 燕雀
+permalink: /birds/huangfushanque/
+---
+燕雀这个名字很难不让人想起”燕雀安知鸿鹄之志“这句话，不过古人所说的燕雀应该是另有所指。
+![](../picture/燕雀/DSCN5720.jpg)
+[返回](../../)
