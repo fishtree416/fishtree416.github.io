@@ -104,7 +104,7 @@ layout: page
 | 87   | [画眉](./birds/huamei)                        | 2021-05-08 | 蜀山森林公园（枫林路西侧）                       |
 | 88   | [鸿雁](./birds/hongyan)                       | 2021-05-17 | 奥森公园南区                                     |
 | 89   | [红喉歌鸲](./birds/honghougequ)               | 2021-05-17 | 奥森公园南区                                     |
-| 90   | [东方大苇莺](./birds/donggangdaweiying)       | 2021-05-17 | 奥森公园南区                                     |
+| 90   | [东方大苇莺](./birds/dongfangdaweiying)       | 2021-05-17 | 奥森公园南区                                     |
 | 91   | [灰雁](./birds/huiyan)                        | 2021-05-17 | 奥森公园南区                                     |
 | 92   | [普通燕鸥](./birds/putongyanou)               | 2021-05-17 | 奥森公园南区                                     |
 | 93   | [赤麻鸭](./birds/chimaya)                     | 2021-05-17 | 北京沙河水库                                     |
