@@ -1,0 +1,9 @@
+---
+layout: page
+title: 灰雁
+permalink: /birds/huiyan/
+---
+灰雁是在奥森公园南区拍的，这里的灰雁只能算是半野生状态，作为个人鸟种的收录勉强可以吧。
+![](../picture/灰雁/DSCN8004.jpg)
+![](../picture/灰雁/DSCN8024.jpg)
+[返回](../../)
