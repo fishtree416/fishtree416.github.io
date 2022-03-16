@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 红尾鸫
-permalink: /birds/canglu/
+permalink: /birds/hongweidong/
 ---
 红尾鸫是比较常见的一种鸫，从本地观测结果看其常见程度仅次于乌鸫和斑鸫。当然如果跳出鸫的范围，和各种菜鸟比较起来，这个鸟就算得上比较少见了。
 ![](../picture/红尾鸫/DSCN5576.jpg)
