@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 彩鹬
-permalink: /birds/shuizhi/
+permalink: /birds/caiyu/
 ---
 彩鹬是一种长得比较花哨的鹬，可惜一直也没机会拍到理想的照片。
 ![](../picture/彩鹬/DSCN9392.jpg)
