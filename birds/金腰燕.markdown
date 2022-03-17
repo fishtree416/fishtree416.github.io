@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 金腰燕
-permalink: /birds/chimaya/
+permalink: /birds/jinyaoyan/
 ---
 金腰燕和家燕是最常见的两种燕子，但是金腰燕比家燕的数量要少得多，至今也没拍到满意的金腰燕的照片。
 ![](../picture/金腰燕/DSC_6106.jpg)
