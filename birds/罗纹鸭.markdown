@@ -1,8 +1,13 @@
 ---
 layout: page
-title: 	白秋沙鸭
-permalink: /birds/baiqiushaya/
+title: 	罗纹鸭
+permalink: /birds/luowenya/
 ---
-白秋沙鸭黑白搭配的颜色很有特点，但是此鸭比较少见，仅在拍摄罗纹鸭的时候碰巧拍到一只，拍得挺模糊的，但能够识别出来，作为观鸟记录尚可。
-![](../picture/白秋沙鸭/DSCN4662.jpg)
+2021年11月董铺水库半岛路那片来了一群小天鹅，于此同时还来了几百只罗纹鸭，小天鹅只是路过，罗纹鸭则停留了很久，我们的罗纹鸭都是在这片水域拍摄的。
+![](../picture/罗纹鸭/DSC_0288.jpg)
+![](../picture/罗纹鸭/DSC_0233.jpg)
+![](../picture/罗纹鸭/DSCN4848.jpg)
+![](../picture/罗纹鸭/DSCN4962.jpg)
+![](../picture/罗纹鸭/DSCN4471.jpg)
+![](../picture/罗纹鸭/DSCN4498.jpg)
 [返回](../../)
