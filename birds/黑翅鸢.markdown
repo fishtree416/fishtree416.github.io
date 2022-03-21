@@ -1,0 +1,8 @@
+---
+layout: page
+title: 	黑翅鸢
+permalink: /birds/heichiyuan/
+---
+黑翅鸢不多见，只远远地拍到过一次。
+![](../picture/黑翅鸢/DSC_1928.jpg)
+[返回](../../)
