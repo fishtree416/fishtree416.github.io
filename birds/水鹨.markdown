@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 	水鹨
-permalink: /birds/chibangya/
+permalink: /birds/shuiliu/
 ---
 第一次见水鹨还以为是白鹡鸰，但是隐约觉得不太一样，后来拍下来仔细分辨才发现原来是水鹨。不过误认为水鹨是白鹡鸰也不奇怪，水鹨毕竟是鹡鸰科的。
 ![](../picture/水鹨/DSC_3298.jpg)
