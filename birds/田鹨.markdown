@@ -1,9 +1,10 @@
 ---
 layout: page
 title: 	田鹨
-permalink: /birds/baiweiyao/
+permalink: /birds/tianliu/
 ---
 各种鹨很多时候有些难以分辨，下面这只和平常所拍的树鹨、水鹨似乎有所不同，姑且认为是田鹨。
+
 主要拍摄地点：十八连圩湿地
 ![](../picture/田鹨/DSCN5683.jpg)
 [返回](../../)
