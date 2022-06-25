@@ -3,9 +3,15 @@ layout: page
 title: 鹊鸲
 permalink: /birds/quequ/
 ---
-鹊鸲这个鸟野外见得不多，小区里却几乎是天天见，或许它就是和人比较亲近吧，此鸟是很好的模特，经常会有很好的拍摄机会。
+鹊鸲这个鸟野外见得不是很多，小区里公园里却几乎是天天见，或许它就是和人比较亲近吧，此鸟是很好的模特，经常会有很好的拍摄机会。
+
+主要拍摄地点：香山丽舍、蜀峰湾、西扩公园
+
 ![](../picture/鹊鸲/DSC_1207.jpg)
+![](../picture/鹊鸲/DSC_7115-NEF_DxO_DeepPRIME.jpg)
 ![](../picture/鹊鸲/DSCN0612.jpg)
-![](../picture/鹊鸲/DSC_7115.jpg)
-![](../picture/鹊鸲/DSCN0846.jpg)
+![](../picture/鹊鸲/DSC_1576-NEF_DxO_DeepPRIME.jpg)
+![](../picture/鹊鸲/DSC_2664-NEF_DxO_DeepPRIME.jpg)
+![](../picture/鹊鸲/DSC_6642-NEF_DxO_DeepPRIME.jpg)
+![](../picture/鹊鸲/DSC_6644-NEF_DxO_DeepPRIME.jpg)
 [返回](../../)
