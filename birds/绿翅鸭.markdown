@@ -3,13 +3,16 @@ layout: page
 title: 绿翅鸭
 permalink: /birds/lvchiya/
 ---
-绿翅鸭是一种体型非常小巧的鸭子，在第一次见到它之前我还不知道原来鸭子也可以这么小。
-![](../picture/绿翅鸭/DSC_2561.jpg)
-![](../picture/绿翅鸭/DSC_2564.jpg)
-![](../picture/绿翅鸭/DSC_3693.jpg)
+绿翅鸭是一种体型非常小巧的鸭子，在第一次见到它之前还不知道原来鸭子也可以这么小。
+
+主要拍摄地点：蜀山森林公园（枫林路东侧）、四季花海三期、	滨湖国家森林公园（红杉林）
+
+![](../picture/绿翅鸭/DSC_2561-NEF_DxO_DeepPRIME.jpg)
+![](../picture/绿翅鸭/DSC_2564-NEF_DxO_DeepPRIME.jpg)
+![](../picture/绿翅鸭/DSC_3693-NEF_DxO_DeepPRIME.jpg)
 ![](../picture/绿翅鸭/DSCN4927.jpg)
 ![](../picture/绿翅鸭/DSCN4932.jpg)
 ![](../picture/绿翅鸭/DSCN6467.jpg)
-![](../picture/绿翅鸭/DSCN7666.jpg)
-![](../picture/绿翅鸭/DSCN7668.jpg)
+![](../picture/绿翅鸭/DSCN7666-NRW_DxO_DeepPRIME.jpg)
+![](../picture/绿翅鸭/DSCN7668-NRW_DxO_DeepPRIME.jpg)
 [返回](../../)
