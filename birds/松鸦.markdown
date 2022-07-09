@@ -3,6 +3,11 @@ layout: page
 title: 松鸦
 permalink: /birds/songya/
 ---
-松鸦在合肥市有不少观鸟记录的，但是我们目前还没有见过。下面这个松鸦是在庐山如琴湖边上用手机拍摄的。
-![](../picture/松鸦/IMG_20210424_123315.jpg)
+第一次拍到松鸦是在庐山如琴湖边上，但是当时手上只有手机。合肥这边松鸦挺少的，仅在金汤湖湿地公园拍到几张。
+
+主要拍摄地点：金汤湖湿地公园
+
+![](../picture/松鸦/DSC_4333-NEF_DxO_DeepPRIME.jpg)
+![](../picture/松鸦/DSCN0125-NRW_DxO_DeepPRIME.jpg)
+![](../picture/松鸦/DSCN0309-NRW_DxO_DeepPRIME.jpg)
 [返回](../../)
