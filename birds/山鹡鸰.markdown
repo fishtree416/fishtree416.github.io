@@ -3,7 +3,10 @@ layout: page
 title: 山鹡鸰
 permalink: /birds/shanjiling/
 ---
-山鹡鸰比较少见，仅在四季花海三期透过层层枝叶的遮挡拍过一只。
-![](../picture/山鹡鸰/DSC_3251.jpg)
-![](../picture/山鹡鸰/DSC_3254.jpg)
+山鹡鸰比较少见，仅透过层层枝叶的遮挡拍过一只。
+
+主要拍摄地点：四季花海三期
+
+![](../picture/山鹡鸰/DSC_3251-NEF_DxO_DeepPRIME.jpg)
+![](../picture/山鹡鸰/DSC_3254-NEF_DxO_DeepPRIME.jpg)
 [返回](../../)
