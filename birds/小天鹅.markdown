@@ -3,10 +3,13 @@ layout: page
 title: 	小天鹅
 permalink: /birds/xiaotiane/
 ---
-早就知道董铺水库每年都有小天鹅路过，但是一直也没见到，直到2021年11月25日终于在半岛路那边见到九只小天鹅，距离有100多米，但是已经是最近的一次了，后来在巢湖里也见到小天鹅，距离就更远了。本页的小天鹅除了最后一张都是在11月25日那天拍摄的，第二天再去看的时候小天鹅已经不见了。
-![](../picture/小天鹅/DSC_0215.jpg)
-![](../picture/小天鹅/DSC_0194.jpg)
-![](../picture/小天鹅/DSC_0239.jpg)
-![](../picture/小天鹅/DSC_0244.jpg)
-![](../picture/小天鹅/DSC_2191.jpg)
+早就知道董铺水库每年都有小天鹅路过，但是一直也没见到，直到2021年11月25日终于在半岛路那边见到九只小天鹅（第二天再去看的时候小天鹅已经不见了）。拍摄距离比较远（100多米），但是已经是最近的一次，后来在巢湖里也见到小天鹅，距离就更远了。本页的小天鹅除了最后一张都是在11月25日那天拍摄的。
+
+主要拍摄地点：半岛路
+
+![](../picture/小天鹅/DSC_0215-NEF_DxO_DeepPRIME.jpg)
+![](../picture/小天鹅/DSC_0194-NEF_DxO_DeepPRIME.jpg)
+![](../picture/小天鹅/DSC_0239-NEF_DxO_DeepPRIME.jpg)
+![](../picture/小天鹅/DSC_0244-NEF_DxO_DeepPRIME.jpg)
+![](../picture/小天鹅/DSC_2191-NEF_DxO_DeepPRIME.jpg)
 [返回](../../)
