@@ -3,9 +3,12 @@ layout: page
 title: 	赤膀鸭
 permalink: /birds/chibangya/
 ---
-赤膀鸭目前为止只在方兴湖拍到过，只是距离稍远，因此拍摄效果不太理想。
-![](../picture/赤膀鸭/DSC_2761.jpg)
-![](../picture/赤膀鸭/DSC_2753.jpg)
-![](../picture/赤膀鸭/DSCN6875.jpg)
-![](../picture/赤膀鸭/DSCN6878.jpg)
+赤膀鸭目前为止只在方兴湖和滨湖国家森林公园拍到过，只是距离稍远且光线一般，因此拍摄效果不太理想。
+
+主要拍摄地点：方兴湖
+
+![](../picture/赤膀鸭/DSC_2761-NEF_DxO_DeepPRIME.jpg)
+![](../picture/赤膀鸭/DSC_2753-NEF_DxO_DeepPRIME.jpg)
+![](../picture/赤膀鸭/DSCN6875-NRW_DxO_DeepPRIME.jpg)
+![](../picture/赤膀鸭/DSCN6878-NRW_DxO_DeepPRIME.jpg)
 [返回](../../)
