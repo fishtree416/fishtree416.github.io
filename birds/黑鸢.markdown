@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 	黑鸢
-permalink: /birds/heiduanjiaobei/
+permalink: /birds/heiyuan/
 ---
 黑鸢这个鸟是在响洪甸大坝附近拍到的，那里还住着几户人家，住在这里岂不是天天都能见到鹰啊。
 
