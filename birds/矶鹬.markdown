@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 	矶鹬
-permalink: /birds/jiyu/
+permalink: /birds/jiyu2/
 ---
 矶鹬拍过两次，目前尚没有拍得比较好的照片。
 
