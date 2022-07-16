@@ -148,12 +148,11 @@ layout: page
 | 131  | [虎纹伯劳](./birds/huwenbolao)                | 2022-05-25 | 牛王寨景区停车场附近                              |
 | 132  | [斑文鸟](./birds/banwenniao)                  | 2022-05-25 | 金汤湖湿地公园                                   |
 | 133  | [冠鱼狗](./birds/guanyugou)                   | 2022-05-25 | 金汤湖湿地公园                                   |
-| 134  | [二斑百灵](./birds/erbanbailing)              | 2022-05-25 | 金汤湖湿地公园                                   |
-| 135  | [发冠卷尾](./birds/faguanjuanwei)             | 2022-05-25 | 金汤湖湿地公园                                   |
-| 136  | [小灰山椒鸟](./birds/xiaohuishanjiaoniao)     | 2022-05-25 | 金汤湖湿地公园                                   |
-| 137  | [山麻雀](./birds/shanmaque)                   | 2022-05-25 | 金汤湖湿地公园                                   |
-| 138  | [黑短脚鹎](./birds/heiduanjiaobei)            | 2022-06-14 | 大蜀山                                   |
-| 139  | [黑鸢](./birds/heiyuan)                       | 2022-06-26 | 响洪甸                                     |
+| 134  | [发冠卷尾](./birds/faguanjuanwei)             | 2022-05-25 | 金汤湖湿地公园                                   |
+| 135  | [小灰山椒鸟](./birds/xiaohuishanjiaoniao)     | 2022-05-25 | 金汤湖湿地公园                                   |
+| 136  | [山麻雀](./birds/shanmaque)                   | 2022-05-25 | 金汤湖湿地公园                                   |
+| 137  | [黑短脚鹎](./birds/heiduanjiaobei)            | 2022-06-14 | 大蜀山                                   |
+| 138  | [黑鸢](./birds/heiyuan)                       | 2022-06-26 | 响洪甸                                     |
 
 说明：
 
