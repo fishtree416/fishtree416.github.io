@@ -153,8 +153,8 @@ layout: page
 | 136  | [山麻雀](./birds/shanmaque)                   | 2022-05-25 | 金汤湖湿地公园                                   |
 | 137  | [黑短脚鹎](./birds/heiduanjiaobei)            | 2022-06-14 | 大蜀山                                   |
 | 138  | [黑鸢](./birds/heiyuan)                       | 2022-06-26 | 响洪甸                                     |
-| 139  | [暗绿绣眼鸟](./birds/anlvxiuyanniao)          | 2022-06-26 | 响洪甸                                     |
-| 140  | [黄臀鹎](./birds/huangtunbei)                 | 2022-06-26 | 响洪甸                                     |
+| 139  | [暗绿绣眼鸟](./birds/anlvxiuyanniao)          | 2022-07-18 | 响洪甸                                     |
+| 140  | [黄臀鹎](./birds/huangtunbei)                 | 2022-07-18 | 响洪甸                                     |
 
 说明：
 
