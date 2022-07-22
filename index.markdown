@@ -155,6 +155,8 @@ layout: page
 | 138  | [黑鸢](./birds/heiyuan)                       | 2022-06-26 | 响洪甸                                     |
 | 139  | [暗绿绣眼鸟](./birds/anlvxiuyanniao)          | 2022-07-18 | 响洪甸                                     |
 | 140  | [黄臀鹎](./birds/huangtunbei)                 | 2022-07-18 | 响洪甸                                     |
+| 141  | [黑鳽](./birds/heijian)                       | 2022-07-18 | 半岛路                                     |
+
 
 说明：
 
