@@ -157,7 +157,7 @@ layout: page
 | 140  | [暗绿绣眼鸟](./birds/anlvxiuyanniao)          | 2022-07-18 | 响洪甸                                           |
 | 141  | [黄臀鹎](./birds/huangtunbei)                 | 2022-07-18 | 响洪甸                                           |
 | 142  | [黑鳽](./birds/heijian)                       | 2022-07-21 | 半岛路                                           |
-
+| 143  | [东方白鹳](./birds/dongfangbaiguan)           | 2022-11-25 | 三河国际荷花博览园                                 |
 
 说明：
 
