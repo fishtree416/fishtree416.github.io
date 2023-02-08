@@ -1,11 +1,11 @@
 ---
 layout: page
-title: 针尾鸭
-permalink: /birds/zhenweiya/
+title: 青头潜鸭
+permalink: /birds/qingtouqianya/
 ---
-针尾鸭是在巢湖边上拍小天鹅的时候随手拍到的，拍摄机会极差，只作为鸟种记录。
+本来是要拍头顶到的鹰的，突然飞出一只鸭子，没拍好，只作为鸟种记录。
 
 主要拍摄地点：巢湖（三河国际荷花博览园附近）
 
-![](../picture/卷羽鹈鹕/DSCN4264.jpg)
+![](../picture/青头潜鸭/DSC_7443-NEF_DxO_DeepPRIME.jpg)
 [返回](../../)
