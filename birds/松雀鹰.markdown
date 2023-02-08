@@ -3,9 +3,12 @@ layout: page
 title: 	松雀鹰
 permalink: /birds/songqueying/
 ---
-松雀鹰还没有遇到过好的拍摄机会，仅作为鸟种记录。
+松雀鹰目前只在西扩公园拍到过。
 
 主要拍摄地点：西扩公园
 
+![](../picture/松雀鹰/DSCN5934-NRW_DxO_DeepPRIME.jpg)
+![](../picture/松雀鹰/DSC_7782-NEF_DxO_DeepPRIME.jpg)
+![](../picture/松雀鹰/DSCN5931-NRW_DxO_DeepPRIME.jpg)
 ![](../picture/松雀鹰/DSC_9469-NEF_DxO_DeepPRIME.jpg)
 [返回](../../)
