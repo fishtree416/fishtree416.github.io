@@ -167,6 +167,7 @@ layout: page
 | 150  | [青头潜鸭](./birds/qingtouqianya)             | 2023-01-08 | 巢湖（三河国际荷花博览园附近）                     |
 | 151  | [灰树鹊](./birds/huishuque)                   | 2023-05-17 | 枣树林                                           |
 | 152  | [乌鹟](./birds/wuwong)                        | 2023-05-19 | 枣树林                                           |
+| 152  | [黑冠鹃隼](./birds/heiguanjuansun)            | 2023-05-20 | 枣树林                                           |
 
 说明：
 
