@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 	黑冠鹃隼
-permalink: /birds/wuwong/
+permalink: /birds/heiguanjuansun/
 ---
 黑冠鹃隼。
 
