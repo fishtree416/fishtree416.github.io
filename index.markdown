@@ -168,6 +168,7 @@ layout: page
 | 151  | [灰树鹊](./birds/huishuque)                   | 2023-05-17 | 枣树林                                           |
 | 152  | [乌鹟](./birds/wuwong)                        | 2023-05-19 | 枣树林                                           |
 | 153  | [黑冠鹃隼](./birds/heiguanjuansun)            | 2023-05-20 | 枣树林                                           |
+| 154  | [褐河乌](./birds/hehewu)                      | 2023-06-27 | 天堂寨                                           |
 
 说明：
 
