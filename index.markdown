@@ -173,6 +173,12 @@ layout: page
 | 156  | [秃鼻乌鸦](./birds/tubiwuya)                  | 2023-11-18 | 巢湖（自然村）                                   |
 | 157  | [鹊鹞](./birds/queyao)                        | 2023-11-18 | 巢湖（自然村）                                   |
 | 158  | [白鹤](./birds/baihe)                         | 2023-11-18 | 十八联圩湿地                                     |
+| 159  | [黑腹滨鹬](./birds/heifubinyu)                | 2023-12-02 | 西泊圩                                           |
+| 160  | [棕扇尾莺](./birds/zongshanweiying)           | 2023-12-02 | 西泊圩                                           |
+| 161  | [白头鹤](./birds/baitouhe)                    | 2023-12-06 | 西泊圩                                           |
+| 162  | [黑尾塍鹬](./birds/heiweichengyu)             | 2023-12-06 | 西泊圩                                           |
+| 163  | [黑嘴鸥](./birds/heizuiou)                    | 2023-12-06 | 西泊圩                                           |
+| 164  | [环颈鸻](./birds/huanjingheng)                | 2023-12-09 | 西泊圩                                           |
 
 说明：
 
