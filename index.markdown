@@ -178,11 +178,12 @@ layout: page
 | 161  | [白头鹤](./birds/baitouhe)                    | 2023-12-06 | 西泊圩                                           |
 | 162  | [黑尾塍鹬](./birds/heiweichengyu)             | 2023-12-06 | 西泊圩                                           |
 | 163  | [黑嘴鸥](./birds/heizuiou)                    | 2023-12-06 | 西泊圩                                           |
-| 164  | [环颈鸻](./birds/huanjingheng)                | 2023-12-09 | 西泊圩                                           |
-| 165  | [花脸鸭](./birds/hualianya)                   | 2023-12-17 | 十八联圩湿地                                     |
-| 166  | [云雀](./birds/yunque)                       | 2023-12-17 | 十八联圩湿地                                     |
-| 167  | [紫翅椋鸟](./birds/zichiliangniao)            | 2023-12-23 | 西泊圩                                           |
-| 168  | [短耳鸮](./birds/duanerxiao)                  | 2023-12-23 | 西泊圩                                           |
+| 164  | [游隼](./birds/yousun)                        | 2023-12-06 | 西泊圩                                           |
+| 165  | [环颈鸻](./birds/huanjingheng)                | 2023-12-09 | 西泊圩                                           |
+| 166  | [花脸鸭](./birds/hualianya)                   | 2023-12-17 | 十八联圩湿地                                     |
+| 167  | [云雀](./birds/yunque)                        | 2023-12-17 | 十八联圩湿地                                     |
+| 168  | [紫翅椋鸟](./birds/zichiliangniao)            | 2023-12-23 | 西泊圩                                           |
+| 169  | [短耳鸮](./birds/duanerxiao)                  | 2023-12-23 | 西泊圩                                           |
 
 说明：
 
