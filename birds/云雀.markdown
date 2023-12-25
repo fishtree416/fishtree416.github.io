@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 	云雀
-permalink: /birds/hualianya/
+permalink: /birds/yunque/
 ---
 云雀在十八连圩是有稳定的分布的，只是目前还没拍到好理想的照片。
 
