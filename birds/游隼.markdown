@@ -1,0 +1,10 @@
+---
+layout: page
+title: 	游隼
+permalink: /birds/yousun/
+---
+游隼，一种速度很快的猛禽，目前只拍过一次。
+
+主要拍摄地点：西泊圩
+![](../picture/游隼/0U9A3829-CR3_DxO_DeepPRIMEXD.jpg)
+[返回](../../)
