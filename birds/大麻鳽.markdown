@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 	大麻鳽
-permalink: /birds/huangjiling/
+permalink: /birds/damajian/
 ---
 大麻鳽见过好几次了，可惜总是没能抓拍成功，附图是一个背影。
 
