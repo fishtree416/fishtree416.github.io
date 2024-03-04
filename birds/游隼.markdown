@@ -3,8 +3,9 @@ layout: page
 title: 	游隼
 permalink: /birds/yousun/
 ---
-游隼，一种速度很快的猛禽，目前只拍过一次。
+游隼，一种速度很快的猛禽，是世界上飞的最快的鸟之一。
 
-主要拍摄地点：西泊圩
+主要地点：西泊圩、十八联圩
+![](../picture/游隼/DSCN0772-NRW_DxO_DeepPRIMEXD.jpg)
 ![](../picture/游隼/0U9A3829-CR3_DxO_DeepPRIMEXD.jpg)
 [返回](../../)
