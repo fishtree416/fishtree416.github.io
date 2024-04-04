@@ -186,6 +186,7 @@ layout: page
 | 169  | [黄鹡鸰](./birds/huangjiling)                 | 2024-01-15 | 巢湖（自然村）                                   |
 | 170  | [大麻鳽](./birds/damajian)                    | 2024-01-24 | 巢湖（自然村）                                   |
 | 171  | [斑头鸺鹠](./birds/bantouxiuliu)              | 2024-03-03 | 枣树林                                           |
+| 171  | [强脚树莺](./birds/qiangjiaoshuying)          | 2024-03-31 | 枣树林                                           |
 
 说明：
 
