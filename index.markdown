@@ -186,7 +186,10 @@ layout: page
 | 169  | [黄鹡鸰](./birds/huangjiling)                 | 2024-01-15 | 巢湖（自然村）                                   |
 | 170  | [大麻鳽](./birds/damajian)                    | 2024-01-24 | 巢湖（自然村）                                   |
 | 171  | [斑头鸺鹠](./birds/bantouxiuliu)              | 2024-03-03 | 枣树林                                           |
-| 171  | [强脚树莺](./birds/qiangjiaoshuying)          | 2024-03-31 | 枣树林                                           |
+| 172  | [强脚树莺](./birds/qiangjiaoshuying)          | 2024-03-31 | 枣树林                                           |
+| 173  | [青脚滨鹬](./birds/qingjiaobinyu)             | 2024-04-09 | 巢湖（三河国际荷花博览园附近）                    |
+| 174  | [中华攀雀](./birds/zhonghuapanque)            | 2024-04-12 | 巢湖（三河国际荷花博览园附近）                    |
+| 175  | [泽鹬](./birds/zeyu)                          | 2024-04-12 | 巢湖（三河国际荷花博览园附近）                    |
 
 说明：
 
