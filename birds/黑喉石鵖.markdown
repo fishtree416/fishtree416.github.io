@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 黑喉石鵖
-permalink: /birds/heihoushibi/
+permalink: /birds/heihoushiji/
 ---
 黑喉石鵖是夏候鸟，在繁殖季来到本地，天凉快后就消失不见了，此鸟喜欢成对活动。
 
