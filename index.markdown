@@ -65,7 +65,7 @@ layout: page
 | 48   | [灰鹡鸰](./birds/huijiling)                   | 2018-04-17 | 四季花海三期                                     |
 | 49   | [星头啄木鸟](./birds/xingtouzhuomuniao)       | 2018-04-17 | 四季花海三期                                     |
 | 50   | [白腰文鸟](./birds/baiyaowenniao)             | 2018-04-26 | 舒城县航埠镇                                     |
-| 51   | [卷尾](./birds/heijuanwei)                  | 2018-05-08 | 四季花海三期                                     |
+| 51   | [黑卷尾](./birds/heijuanwei)                  | 2018-05-08 | 四季花海三期                                     |
 | 52   | [斑嘴鸭](./birds/banzuiya)                    | 2018-06-30 | 四季花海三期                                     |
 | 53   | [灰头麦鸡](./birds/huitoumaiji)               | 2018-07-02 | 四季花海三期                                     |
 | 54   | [牛背鹭](./birds/niubeilu)                    | 2018-07-04 | 四季花海三期                                     |
