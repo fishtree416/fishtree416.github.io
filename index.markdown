@@ -77,7 +77,7 @@ layout: page
 | 60   | [红尾伯劳](./birds/hongweibolao)              | 2018-08-30 | 四季花海三期                                     |
 | 61   | [噪鹃](./birds/zaojuan)                       | 2018-09-03 | 香山丽舍                                         |
 | 62   | [黑枕黄鹂](./birds/heizhenhuangli)            | 2018-09-10 | 四季花海三期                                     |
-| 63   | [黑喉石鵖](./birds/heihoushibi)               | 2018-09-10 | 四季花海三期                                     |
+| 63   | [黑喉石鵖](./birds/heihoushiji)               | 2018-09-10 | 四季花海三期                                     |
 | 64   | [斑鸫](./birds/bandong)                       | 2019-03-17 | 四季花海二期                                     |
 | 65   | [黄腰柳莺](./birds/huangyaoliuying)           | 2019-04-07 | 香山丽舍                                         |
 | 66   | [林鹬](./birds/linyu)                         | 2019-05-01 | 四季花海三期                                     |
@@ -162,7 +162,7 @@ layout: page
 | 145  | [东方白鹳](./birds/dongfangbaiguan)           | 2022-11-25 | 巢湖（三河国际荷花博览园附近）                     |
 | 146  | [针尾鸭](./birds/zhenweiya)                   | 2022-12-02 | 巢湖（三河国际荷花博览园附近）                     |
 | 147  | [卷羽鹈鹕](./birds/juanyutihu)                | 2023-01-06 | 巢湖（桂花台）                                    |
-| 148  | [青头潜鸭](./birds/qingtouqianya)             | 2023-01-08 | 巢湖（三河国际荷花博览园附近）                     |
+| 148  | [青头潜鸭](./birds/qingtouqianya)             | 2023-01-08 | 巢湖（三河国际荷花博览园附近）                    |
 | 159  | [灰树鹊](./birds/huishuque)                   | 2023-05-17 | 枣树林                                           |
 | 150  | [乌鹟](./birds/wuwong)                        | 2023-05-19 | 枣树林                                           |
 | 151  | [黑冠鹃隼](./birds/heiguanjuansun)            | 2023-05-20 | 枣树林                                           |
@@ -188,8 +188,12 @@ layout: page
 | 171  | [斑头鸺鹠](./birds/bantouxiuliu)              | 2024-03-03 | 枣树林                                           |
 | 172  | [强脚树莺](./birds/qiangjiaoshuying)          | 2024-03-31 | 枣树林                                           |
 | 173  | [青脚滨鹬](./birds/qingjiaobinyu)             | 2024-04-09 | 巢湖（三河国际荷花博览园附近）                    |
-| 174  | [中华攀雀](./birds/zhonghuapanque)            | 2024-04-12 | 巢湖（三河国际荷花博览园附近）                    |
-| 175  | [泽鹬](./birds/zeyu)                          | 2024-04-12 | 巢湖（三河国际荷花博览园附近）                    |
+| 174  | [灰脸鵟鹰](./birds/huiliankuangying)          | 2024-04-10 | 大蜀山                                           |
+| 175  | [中华攀雀](./birds/zhonghuapanque)            | 2024-04-12 | 巢湖（三河国际荷花博览园附近）                    |
+| 176  | [泽鹬](./birds/zeyu)                          | 2024-04-12 | 巢湖（三河国际荷花博览园附近）                    |
+| 177  | [东亚石䳭](./birds/dongyashiji)               | 2024-04-14 | 枣树林                                           |
+| 178  | [灰山椒鸟](./birds/huishanjiaoniao)           | 2024-04-14 | 大蜀山                                           |
+| 179  | [黄眉柳莺](./birds/huangmeiliuying)           | 2024-04-15 | 大蜀山                                           |
 
 说明：
 
