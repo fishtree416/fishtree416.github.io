@@ -3,7 +3,7 @@ layout: page
 title: 	云雀
 permalink: /birds/yunque/
 ---
-云雀在十八连圩是有稳定的分布的，只是目前还没拍到好理想的照片。
+云雀在十八连圩有稳定的分布，虽说看上去普通，却也是国家二级保护动物。
 
 主要拍摄地点：十八连圩
 ![](../picture/云雀/0U9A5379-CR3_DxO_DeepPRIMEXD.jpg)
