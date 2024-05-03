@@ -194,7 +194,8 @@ layout: page
 | 177  | [东亚石䳭](./birds/dongyashiji)               | 2024-04-14 | 枣树林                                           |
 | 178  | [灰山椒鸟](./birds/huishanjiaoniao)           | 2024-04-14 | 大蜀山                                           |
 | 179  | [黄眉柳莺](./birds/huangmeiliuying)           | 2024-04-15 | 大蜀山                                           |
-| 180  | [鸥嘴噪鸥](./birds/ouzuizaoou)                  | 2024-04-22 | 董铺水库（枣树林附近）                            |
+| 180  | [鸥嘴噪鸥](./birds/ouzuizaoou)                | 2024-04-22 | 董铺水库（枣树林附近）                            |
+| 181  | [远东树莺](./birds/yuandongshuying)           | 2024-04-27 | 西泊圩                                            |
 
 说明：
 
