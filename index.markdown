@@ -196,6 +196,7 @@ layout: page
 | 179  | [黄眉柳莺](./birds/huangmeiliuying)           | 2024-04-15 | 大蜀山                                           |
 | 180  | [鸥嘴噪鸥](./birds/ouzuizaoou)                | 2024-04-22 | 董铺水库（枣树林附近）                            |
 | 181  | [远东树莺](./birds/yuandongshuying)           | 2024-04-27 | 西泊圩                                            |
+| 182  | [金鸻](./birds/jinheng)                       | 2024-04-27 | 三河国际荷花博览园                                |
 
 说明：
 
