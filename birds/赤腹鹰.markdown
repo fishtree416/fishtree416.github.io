@@ -3,9 +3,9 @@ layout: page
 title: 赤腹鹰
 permalink: /birds/chifuying/
 ---
-赤腹鹰比较少见，目前为止仅拍过两次，第一次距离太严，第二次距离很近可惜大蜀山的林子里光线太暗，没能成功数毛。
+赤腹鹰比较少见，目前为止仅拍过两次，第一次距离太远，第二次距离很近可惜大蜀山的林子里光线太暗，没能成功数毛。
 
-主要拍摄地点：熊小郢
+主要拍摄地点：熊小郢、大蜀山
 
 ![](../picture/赤腹鹰/DSCN0577-NRW_DxO_DeepPRIME.jpg)
 ![](../picture/赤腹鹰/DSCN0576-NRW_DxO_DeepPRIME.jpg)
