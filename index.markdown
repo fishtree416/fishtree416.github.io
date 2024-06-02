@@ -198,6 +198,7 @@ layout: page
 | 181  | [远东树莺](./birds/yuandongshuying)           | 2024-04-27 | 西泊圩                                            |
 | 182  | [金鸻](./birds/jinheng)                       | 2024-04-27 | 三河国际荷花博览园                                |
 | 183  | [大鹰鹃](./birds/dayingjuan)                  | 2024-03-03 | 枣树林                                           |
+| 184  | [斑姬啄木鸟](./birds/banjizhuomuniao)         | 2024-05-29 | 枣树林                                           |
 
 说明：
 
