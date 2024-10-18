@@ -199,7 +199,10 @@ layout: page
 | 182  | [金鸻](./birds/jinheng)                       | 2024-04-27 | 三河国际荷花博览园                                |
 | 183  | [大鹰鹃](./birds/dayingjuan)                  | 2024-03-03 | 枣树林                                           |
 | 184  | [斑姬啄木鸟](./birds/banjizhuomuniao)         | 2024-05-29 | 枣树林                                           |
-| 184  | [仙八色鸫](./birds/xianbasedong)              | 2024-06-23 | 大蜀山                                           |
+| 185  | [仙八色鸫](./birds/xianbasedong)              | 2024-06-23 | 大蜀山                                           |
+| 186  | [白颊噪鹛](./birds/baijiazaomei)              | 2024-07-23 | 天堂寨                                           |
+| 187  | [须浮鸥](./birds/xufuou)                      | 2024-10-10 | 柏堰湖                                           |
+| 188  | [鸲姬鹟](./birds/jujiweng)                    | 2024-10-18 | 柏堰湖                                           |
 
 说明：
 
