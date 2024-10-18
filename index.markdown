@@ -202,7 +202,8 @@ layout: page
 | 185  | [仙八色鸫](./birds/xianbasedong)              | 2024-06-23 | 大蜀山                                           |
 | 186  | [白颊噪鹛](./birds/baijiazaomei)              | 2024-07-23 | 天堂寨                                           |
 | 187  | [须浮鸥](./birds/xufuou)                      | 2024-10-10 | 柏堰湖                                           |
-| 188  | [鸲姬鹟](./birds/jujiweng)                    | 2024-10-18 | 柏堰湖                                           |
+| 188  | [白腹蓝鹟](./birds/baifulanweng)              | 2024-10-14 | 柏堰湖                                           |
+| 189  | [鸲姬鹟](./birds/jujiweng)                    | 2024-10-18 | 柏堰湖                                           |
 
 说明：
 
