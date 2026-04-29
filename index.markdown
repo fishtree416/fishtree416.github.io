@@ -49,7 +49,7 @@ layout: page
 | 32   | [普通翠鸟](./birds/putongcuiniao)             | 2018-01-08 | 四季花海三期                                     |
 | 33   | [银喉长尾山雀](./birds/yinhouchangweishanque) | 2018-01-08 | 董铺水库（环湖大道）                             |
 | 34   | [扇尾沙锥](./birds/shanweishazhui)            | 2018-01-09 | 四季花海三期                                     |
-| 35   | [脸噪鹛](./birds/heilianzaomei)             | 2018-01-14 | 四季花海三期                                     |
+| 35   | [黑脸噪鹛](./birds/heilianzaomei)             | 2018-01-14 | 四季花海三期                                     |
 | 36   | [大斑啄木鸟](./birds/dabanzhuomuniao)         | 2018-01-26 | 四季花海三期北门对面                             |
 | 37   | [红胁蓝尾鸲](./birds/hongxielanweiqu)         | 2018-01-26 | 四季花海三期                                     |
 | 38   | [黄喉鹀](./birds/huanghouwu)                  | 2018-01-26 | 四季花海三期                                     |
@@ -215,7 +215,11 @@ layout: page
 | 198  | [白额燕鸥](./birds/baieyanou)                 | 2025-05-07 | 三河湿地                                            |
 | 199  | [虎斑地鸫](./birds/hubandidong)               | 2026-01-15 | 西扩公园                                            |
 | 200  | [秋沙鸭](./birds/zhongshaoyu)                 | 2026-02-20 | 横排头                                            |
-
+| 201  | [北椋鸟](./birds/beiliangniao)                | 2026-04-13 | 四季花海三期                                       |  
+| 202  | [长趾滨鹬](./birds/zhongshaoyu)               | 2026-04-17 | 派河大桥附近                                       |
+| 203  | [红颈滨鹬](./birds/zhongshaoyu)               | 2026-04-17 | 派河大桥附近                                       |
+| 204  | [黄眉柳莺](./birds/huangmeiliuying)           | 2026-04-25 | 四季花海三期                                       |  
+| 205  | [红协绣眼](./birds/hongxiexiuyan)             | 2026-04-25 | 枣树林                                            |
 说明：
 
 · 有些鸟的首拍地点在外地，但是后来在合肥也有发现。
