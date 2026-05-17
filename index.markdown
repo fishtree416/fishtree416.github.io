@@ -217,7 +217,17 @@ layout: page
 | 201  | [北椋鸟](./birds/beiliangniao)                | 2026-04-13 | 四季花海三期                                       |  
 | 202  | [长趾滨鹬](./birds/changzhibinyu)             | 2026-04-17 | 派河大桥附近                                       |
 | 203  | [红颈滨鹬](./birds/hongjingbinyu)             | 2026-04-17 | 派河大桥附近                                       |
-| 204  | [红协绣眼](./birds/hongxiexiuyan)             | 2026-04-25 | 枣树林                                            |
+| 203  | [红颈滨鹬](./birds/hongjingbinyu)             | 2026-04-24 | 十八联圩                                           |
+| 204  | [黄头鹡鸰](./birds/huangtoujiling)            | 2026-04-17 | 派河大桥附近                                       |
+| 205  | [红协绣眼](./birds/hongxiexiuyan)             | 2026-04-25 | 枣树林                                            |
+| 206  | [极北柳莺](./birds/jibeiliuying)              | 2026-05-06 | 圆洞山水库                                         |
+| 207  | [蓝翡翠](./birds/lanfeicui)                   | 2026-05-06 | 圆洞山水库                                         |
+| 208  | [白胸苦恶鸟](./birds/baixiongkueniao)         | 2026-05-06 | 圆洞山水库                                         |
+| 209  | [白喉矶鸫](./birds/baihoujidong)              | 2026-05-08 | 大蜀山                                             |
+| 210  | [棕脸鹟莺](./birds/zonglianwengying)          | 2026-05-11 | 小河湾村滴水岩                                      |
+| 211  | [红头穗鹛](./birds/hongtousuimei)             | 2026-05-12 | 石家凹                                             |
+| 212  | [白翅浮鸥](./birds/baichifuou)                | 2026-05-15 | 石家凹                                             |
+| 213  | [寿带](./birds/shoudai)                       | 2026-05-16 | 蜀峰湾                                             |
 
 说明：
 
