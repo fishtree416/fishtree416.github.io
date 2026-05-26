@@ -221,14 +221,15 @@ layout: page
 | 205  | [黄头鹡鸰](./birds/huangtoujiling)            | 2026-04-17 | 派河大桥附近                                       |
 | 206  | [红协绣眼](./birds/hongxiexiuyan)             | 2026-04-25 | 枣树林                                            |
 | 207  | [极北柳莺](./birds/jibeiliuying)              | 2026-05-06 | 圆洞山水库                                         |
-| 208  | [蓝翡翠](./birds/lanfeicui)                   | 2026-05-06 | 圆洞山水库                                         |
-| 209  | [白胸苦恶鸟](./birds/baixiongkueniao)         | 2026-05-06 | 圆洞山水库                                         |
-| 210  | [白喉矶鸫](./birds/baihoujidong)              | 2026-05-08 | 大蜀山                                             |
-| 211  | [棕脸鹟莺](./birds/zonglianwengying)          | 2026-05-11 | 小河湾村滴水岩                                      |
-| 212  | [红头穗鹛](./birds/hongtousuimei)             | 2026-05-12 | 石家凹                                             |
-| 213  | [白翅浮鸥](./birds/baichifuou)                | 2026-05-15 | 丰乐万亩荷塘                                        |
-| 214  | [寿带](./birds/shoudai)                       | 2026-05-16 | 蜀峰湾                                             |
-| 215  | [大杜鹃](./birds/dadujuan)                    | 2026-05-20 | 枣树林                                             |
+| 208  | [冕柳莺](./birds/mianliuying)                 | 2026-05-06 | 圆洞山水库                                         |
+| 209  | [蓝翡翠](./birds/lanfeicui)                   | 2026-05-06 | 圆洞山水库                                         |
+| 210  | [白胸苦恶鸟](./birds/baixiongkueniao)         | 2026-05-06 | 圆洞山水库                                         |
+| 211  | [白喉矶鸫](./birds/baihoujidong)              | 2026-05-08 | 大蜀山                                             |
+| 212  | [棕脸鹟莺](./birds/zonglianwengying)          | 2026-05-11 | 小河湾村滴水岩                                      |
+| 213  | [红头穗鹛](./birds/hongtousuimei)             | 2026-05-12 | 石家凹                                             |
+| 214  | [白翅浮鸥](./birds/baichifuou)                | 2026-05-15 | 丰乐万亩荷塘                                        |
+| 215  | [寿带](./birds/shoudai)                       | 2026-05-16 | 蜀峰湾                                             |
+| 216  | [大杜鹃](./birds/dadujuan)                    | 2026-05-20 | 枣树林                                             |
 
 说明：
 
